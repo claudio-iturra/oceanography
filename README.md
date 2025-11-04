@@ -1,8 +1,8 @@
 
-<img width="1743" height="869" alt="038d84d5972aa57ab4767518e32ffcdc" src="https://github.com/user-attachments/assets/f7c8c1b2-2c39-49e2-b1aa-08f78e3f1932" />
+<img width="1743" height="869" alt="038d84d5972aa57ab4767518e32ffcdc" src="https://github.com/user-attachments/assets/8bbb8af6-ae6f-4bde-a792-808fdbce822f" />
 
 
-Program Introduction
+## Program Introduction
 
 Across these three, studio-style courses—Physical Oceanography, Remote Oceanography, and Time-Series Analysis—students learn to turn raw observations and model output into scientific insight. We work hands-on with real datasets (moorings, drifters, satellites, reanalyses, biogeochemical models), emphasizing reproducible workflows in Python (and optional Julia). Core skills include frequency-domain thinking, spectral and wavelet methods, satellite data processing, and numerical simulation of ocean circulation and tracers. By the end, students can diagnose key ocean processes—from winds driving near-inertial currents to mesoscale eddies modulating biology—and communicate results with publication-quality figures and concise, quantitative writing.
 
