@@ -62,3 +62,7 @@ Design, run, and interpret targeted numerical experiments (physical and simple b
 Communicate clearly with figures, notebooks, and concise writing; publish a clean, reproducible project repo.
 
 If you want, I can tailor the examples and datasets to your region (e.g., central Chile, ~36°S) and include a week-by-week outline with readings and graded rubrics.
+
+<img width="1541" height="707" alt="rotary" src="https://github.com/user-attachments/assets/11cefbe0-e387-4ec4-967d-b1346bca30e3" />
+
+
