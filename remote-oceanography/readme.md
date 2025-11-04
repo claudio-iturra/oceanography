@@ -1,4 +1,3 @@
-Got it! Here’s a clear, step-by-step guide for both **Google Colab (in the cloud)** and **Jupyter Notebook (on your computer)**.
 
 # A) Use Google Colab (no install needed)
 
